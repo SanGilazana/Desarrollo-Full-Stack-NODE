@@ -1,7 +1,7 @@
 # Desarrollo-Full-Stack-NODE
  Ejercicio práctico del curso Samsung Desarrollador@s, dónde he aprendido competencias de desarrollo web.
 Práctica 5. Node.js
-Se propone crear un API donde se integre la creación de un servicio básico utilizando Node.js (nota técnica 6.4) con el almacenamiento de datos en una base de datos MongoDB (nota técnica 6.5).
+Se propone crear un API donde se integre la creación de un servicio básico utilizando Node.js con el almacenamiento de datos en una base de datos MongoDB .
 
 En concreto, se tendrá que:
 
